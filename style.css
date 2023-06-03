@@ -1,0 +1,22 @@
+.background-class {
+    background: orange;
+}
+
+.main-header {
+    color: red;
+    background: #ff9a27;
+}
+
+.section-header {
+    color: #c40000;
+    background: #d87300;
+}
+
+.article-header {
+    color: #960000;
+    background: #e9be00;
+}
+
+.paragraph {
+    color: darkblue;
+}
